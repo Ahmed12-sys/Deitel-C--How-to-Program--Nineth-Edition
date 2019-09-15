@@ -1,0 +1,9 @@
+-IE:\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++
+-IE:\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32
+-IE:\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward
+-IE:\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include
+-IE:\CodeBlocks\MinGW\include
+-IE:\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include-fixed
+-I"F:\Files\C++\C++ Workspace\ex57"
+-target
+x86_64-pc-windows-gnu

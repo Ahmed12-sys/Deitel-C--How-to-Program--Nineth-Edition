@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554847671 source:f:\files\c++\exercisefig3.1\main.cpp
+	<iostream>
+
+1554848362 source:f:\files\c++\exercisefig3.1\3.3 defining a member function with a parameter.cpp
+	<iostream>
+	<string>
+
+1554893049 source:f:\files\c++\exercisefig3.1\3.4 data members, set member functions and get.cpp
+	<iostream>
+	<string>
+
+1554976689 source:f:\files\c++\exercisefig3.1\constructor.cpp
+	<iostream>
+	<string>
+

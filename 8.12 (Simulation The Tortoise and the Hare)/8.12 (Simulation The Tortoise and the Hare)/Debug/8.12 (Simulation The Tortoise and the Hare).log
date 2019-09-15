@@ -1,0 +1,3 @@
+﻿  8.12 (Simulation The Tortoise and the Hare).cpp
+F:\Files\C++\VS Projects\8.12 (Simulation The Tortoise and the Hare)\8.12 (Simulation The Tortoise and the Hare)\8.12 (Simulation The Tortoise and the Hare).cpp(44,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  8.12 (Simulation The Tortoise and the Hare).vcxproj -> F:\Files\C++\VS Projects\8.12 (Simulation The Tortoise and the Hare)\Debug\8.12 (Simulation The Tortoise and the Hare).exe

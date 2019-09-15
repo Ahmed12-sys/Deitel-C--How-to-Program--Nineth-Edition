@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555321309 source:f:\files\c++\exercise3.12\main.cpp
+	<iostream>
+	<Account.h>
+

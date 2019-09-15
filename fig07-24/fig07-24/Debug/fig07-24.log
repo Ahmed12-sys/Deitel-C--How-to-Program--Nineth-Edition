@@ -1,0 +1,5 @@
+﻿  Gradebook.cpp
+  fig07-24.cpp
+F:\Files\C++\VS Projects\fig07-24\fig07-24\Gradebook.cpp(4,10): error C1083:  Cannot open include file: 'GradeBook.hpp': No such file or directory
+  Generating Code...
+F:\Files\C++\VS Projects\fig07-24\fig07-24\fig07-24.cpp(1,10): error C1083:  Cannot open include file: 'GradeBook.hpp': No such file or directory

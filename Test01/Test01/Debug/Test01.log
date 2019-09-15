@@ -1,0 +1,3 @@
+﻿  Test01.cpp
+F:\Files\C++\VS Projects\Test01\Test01\Test01.cpp(8,6): warning C4101:  'x': unreferenced local variable
+  Test01.vcxproj -> F:\Files\C++\VS Projects\Test01\Debug\Test01.exe

@@ -1,0 +1,3 @@
+﻿  6.12 ParkingCharges.cpp
+F:\Files\C++\VS Projects\6.12 ParkingCharges\6.12 ParkingCharges\6.12 ParkingCharges.cpp(24): warning C4715:  'calculateCharges': not all control paths return a value
+  6.12 ParkingCharges.vcxproj -> F:\Files\C++\VS Projects\6.12 ParkingCharges\Debug\6.12 ParkingCharges.exe
